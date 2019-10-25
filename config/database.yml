@@ -8,7 +8,7 @@ development:
   encoding: unicode
   database: toy_app_development
   pool: 5
-  username: toy_app
+  username:
   password:
   host: localhost
 
